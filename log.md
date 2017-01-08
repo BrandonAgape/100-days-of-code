@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+Finally jumping in the coding pool. I've watched others enjoy from the outside for far to long. Since I'm extremely new to this whole world I'll be tweeting snippets of my progress and things I learn, struggle with, and fail at.
+
+<!---### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
