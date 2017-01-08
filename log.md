@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
-Finally jumping in the coding pool. I've watched others enjoy from the outside for far to long. Since I'm extremely new to this whole world I'll be tweeting snippets of my progress and things I learn, struggle with, and fail at.
+<p>Finally jumping in the coding pool. I've watched others enjoy from the outside for far to long. Since I'm extremely new to this whole world I'll be 
+<a href="www.Twitter.com/BrandonAgape"> 
+tweeting</a>
+snippets of my progress and things I learn, struggle with, and fail at.</p>
+
 
 <!---### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
